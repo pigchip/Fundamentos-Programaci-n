@@ -1,0 +1,19 @@
+proyectoFinal.exe textoEnt.txt L_2_4_6_8_10_12_14_16_18_20 textoSal.txt
+
+proyectoFinal.exe textoEnt.txt C_1_2_3_4_5 textoSal.txt
+
+proyectoFinal.exe textoEnt.txt IL_1_3_5_7_9_11_13_15_17_19 textoSal.txt
+
+proyectoFinal.exe textoEnt.txt IC_2_4_6_8_10_12_14_16_18_20 textoSal.txt
+
+proyectoFinal.exe textoEnt.txt CC_texto textoSal.txt
+
+proyectoFinal.exe textoEnt.txt CP_inf textoSal.txt
+
+proyectoFinal.exe textoEnt.txt CS_cion textoSal.txt
+
+proyectoFinal.exe textoEnt.txt WC textoSal.txt
+
+proyectoFinal.exe textoEnt.txt WNUM textoSal.txt
+
+proyectoFinal.exe textoEnt.txt INC textoSal.txt
